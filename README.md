@@ -2,9 +2,8 @@
 
 Installs Git LFS, "an open source Git extension for versioning large files", on any RHEL/CentOS or Debian/Ubuntu Linux system. Source of packages is [package cloud](https://packagecloud.io/github/git-lfs/)
 
-![Build Status](https://travis-ci.org/pedrocarmona/github-git-lfs.svg?branch=master)
-
-Sponsored by [BidMath](http://bidmath.com/)
+[GitLab LFS](https://gitlab.com/help/workflow/lfs/manage_large_binaries_with_git_lfs)
+[Git LFS](https://git-lfs.github.com/)
 
 ## Requirements
 
